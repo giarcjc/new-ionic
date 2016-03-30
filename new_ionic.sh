@@ -11,5 +11,3 @@ PROJECT_NAME=$projName
 PROJECT_TYPE=$ionType
 ionic start $PROJECT_NAME $PROJECT_TYPE
 cd $PROJECT_NAME
-CMD=`ionic serve`
-
